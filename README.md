@@ -1,3 +1,3 @@
 # One-d
-Checking d
+Checking dyn
 <h4>Author- D</h4>
